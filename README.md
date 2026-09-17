@@ -482,4 +482,6 @@ Your website is **production-ready**. All features are working, database is conn
 **Made with ❤️ for Daddu's Biryani**
 
 Global.css changed
+menu update 
+
 
