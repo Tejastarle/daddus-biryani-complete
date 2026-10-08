@@ -5,7 +5,7 @@
 
 Complete, production-ready website with 6 public pages + password-protected admin panel.
 
----
+
 
 ## **✨ FEATURES**
 
